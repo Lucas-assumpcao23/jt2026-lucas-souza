@@ -1,0 +1,11 @@
+opencode.json
+.env
+_pycache_/
+*.pyc
+.venv/
+venv/
+
+# Chaves de API
+*.key
+*api_key*
+*API_KEY*
