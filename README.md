@@ -1,5 +1,7 @@
 **Vídeo da apresentação:** (https://drive.google.com/file/d/1NT7ZNO6k04ZJqmyl7ymM6uErOSNeT6Ri/view?usp=sharing)
 
+**Transcrição do vídeo:** (https://github.com/Lucas-assumpcao23/jt2026-lucas-souza/blob/master/ai-log/transcricao-video.md)
+
 # Hackathon Jovens Talentos AI Builder 2026 — Seazone
 
 ## Recomendação de Investimento em Imóveis para Temporada em Itapema (SC)
